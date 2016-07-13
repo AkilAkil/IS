@@ -41,13 +41,4 @@ for(k=0;k<strlen(a);k++)
 printf("%d",tab[k][j]);
 printf("\n");
 }
-
-
-
-
-
-
-
-
-
 }
